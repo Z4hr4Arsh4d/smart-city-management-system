@@ -134,7 +134,6 @@ The system loads data from CSV files such as:
 * `Source.cpp` → Main entry point
 * `src/` → All modules (education, transport, medical, etc.)
 * `dataset/` → CSV data files
-* `*.h` → Header files
 
 ---
 
