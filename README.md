@@ -157,8 +157,8 @@ The system loads data from CSV files such as:
 
 ## Team Members
 
-*Zahra Arshad
-*Ahmed Ubaid
-*Tayyab Waheed
+* Zahra Arshad
+* Ahmed Ubaid
+* Tayyab Waheed
 
 ---
